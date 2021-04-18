@@ -2,10 +2,9 @@
 - pip install tensorflow
 - pip install opencv-python
 - similarly install the remaining
-
 - run sign_language_prediction.py for the code
 
-_To train your own model (for higher efficiency)_
+_**To train your own model (for higher efficiency)**_
 
 - z_get_images_for_model.py
 
