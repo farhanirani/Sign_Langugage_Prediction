@@ -1,7 +1,6 @@
 import tensorflow as tf
 import tensorflow.keras
 import cv2
-import numpy as np
 import tkinter
 from tkinter import *
 import statistics
